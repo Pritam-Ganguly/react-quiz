@@ -1,6 +1,6 @@
 # Simple Quiz application
 
-### goal of this project to understand useReducer hook in details.
+### The goal of this project is to understand 'useReducer' hook in details.
 
 ## Quiz Screen
 
